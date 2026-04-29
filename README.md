@@ -1,3 +1,33 @@
+# 📄 Project README
+
+## 👨‍🎓 Roll Numbers and Names
+- 2210992021 – Paras Sanserwal  
+- 2210994786 – Hardik Bajaj  
+
+---
+
+## 📌 Project Title
+**Anonymous Channels for Workplace Communication: Design, Implementation, and Survey Analysis of Chatify**
+
+---
+
+## 🧾 Project Type
+**Research Paper**
+
+---
+
+## 👥 Team Details
+- Paras Sanserwal (2210992021)  
+- Hardik Bajaj (2210994786)  
+
+---
+
+## 📊 Current Status
+-submitted
+
+---
+
+
 # 💬 Chatify – Anonymous Real-Time Chat Application
 
 Chatify is a **full-stack real-time chat platform** designed to improve communication by enabling **anonymous interaction within group channels**. The system focuses on enhancing **psychological safety**, allowing users to ask questions and share ideas without fear of judgment.
